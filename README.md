@@ -1,14 +1,3 @@
----
-title: "How To Use Git"
-author: "Jason Carey"
-date: "10/12/2021"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Getting Started
 
 In this document I'll explain what git is, I'm going to show you how to use git, and I'll discuss the benefits of using git when working in a team.
